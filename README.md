@@ -26,9 +26,9 @@
   - 민재 추가 바람
 
 ## Tools You Might Want to Use
-*터미널*: Windows 유저라면 터미널로 5월 전까지는 Hyper 쓰는 것을 추천, 개인적으로는 WSL로 깔아서 리눅스 툴을 쓰는 것 추천 (특히 Python 사용시)
-*에디터*: 터미널 작업시 vim 배워서 쓰는 것 추천하지만 시간이 없을 때는 비추 (기본적인 수정과 사용법만 알고 있으면 됨). 웹 쪽 개발을 한다면 VS Code 깔아서 쓰는 것 추천 (본인은 잘 모르나 민재한테 문의 ㄱ)
-*웹 브라우저*: 웹 개발 시 테스트는 Chrome에서
-*통합 개발 환경*: (당연히) Android 개발 시 AndroidStudio, iOS 개발 시 Xcode
-*디자인 툴*: Sketch, Zeplin, Photoshop
+- *터미널*: Windows 유저라면 터미널로 5월 전까지는 Hyper 쓰는 것을 추천, 개인적으로는 WSL로 깔아서 리눅스 툴을 쓰는 것 추천 (특히 Python 사용시)
+- *에디터*: 터미널 작업시 vim 배워서 쓰는 것 추천하지만 시간이 없을 때는 비추 (기본적인 수정과 사용법만 알고 있으면 됨). 웹 쪽 개발을 한다면 VS Code 깔아서 쓰는 것 추천 (본인은 잘 모르나 민재한테 문의 ㄱ)
+- *웹 브라우저*: 웹 개발 시 테스트는 Chrome에서
+- *통합 개발 환경*: (당연히) Android 개발 시 AndroidStudio, iOS 개발 시 Xcode
+- *디자인 툴*: Sketch, Zeplin, Photoshop
 
