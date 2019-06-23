@@ -8,15 +8,15 @@
   - 자신이 속한 팀 이외 팀의 업무도 어느 정도 파악
 
 - **iOS**:
-  - _The Swift Programming Language_ (https://bit.ly/2Qz2p49)의 _Welcome to Swift_ 섹션이랑 _Language Guide_ 섹션 모두
+  - _The Swift Programming Language_ (https://bit.ly/2Qz2p49) 의 _Welcome to Swift_ 섹션이랑 _Language Guide_ 섹션 모두
   - _CS193P: Developing iOS 11 Apps with Swift_ (https://apple.co/2iXyAu0)
 
 - **Android**:
-  - _Kotlin documentation_ (https://bit.ly/2DX2nPs)의 _Getting Started_, _Basics_, _Classes and Objects_, _Functions and Lambdas_, _Other_ 섹션
+  - _Kotlin documentation_ (https://bit.ly/2DX2nPs) 의 _Getting Started_, _Basics_, _Classes and Objects_, _Functions and Lambdas_, _Other_ 섹션
   - _CS193A: Android Application Development_ (https://bit.ly/2EbygmQ)
 
 - **웹** (_꼭 Javascript를 먼저 배운 뒤 프레임워크를 공부할 것!_):
-  - _생활코딩 WEBn_ (https://bit.ly/1ZMkiKQ)에서 _WEB1 - HTML & Internet_, _WEB2 - CSS_, _WEB2 - Javascript_ 정도 공부하기
+  - _생활코딩 WEBn_ (https://bit.ly/1ZMkiKQ) 에서 _WEB1 - HTML & Internet_, _WEB2 - CSS_, _WEB2 - Javascript_ 정도 공부하기
   - _CS142: Web Applications_ (https://stanford.io/2JFCKG0)
   - _Vue.js guide_ (https://bit.ly/2qeb6TW) _Essentials_ 섹션
 
